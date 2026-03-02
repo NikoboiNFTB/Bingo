@@ -12,7 +12,7 @@ A simple, free and open-source Bingo game.
 
 **Option 1**. Open Live Version:
 
-[https://nikoboi.dev/bingo](https://nikoboi.dev/bingo)
+[https://bingo.nikoboi.dev/](https://bingo.nikoboi.dev/)
 
 **Option 2**: Download & Run Locally:
 
@@ -21,7 +21,7 @@ A simple, free and open-source Bingo game.
 1. Create a folder anywhere, open the terminal in it and run:
 
 ```bash
-git clone https://github.com/NikoboiNFTB/dev.nikoboi .
+git clone https://github.com/NikoboiNFTB/Bingo .
 ```
 
 >> Using `.` clones the files into the current directory. So create the folder first.
@@ -34,9 +34,9 @@ python3 -m http.server 5500
 
 >> Requires Python
 
-3. Visit your server [here](http://localhost:5500/bingo/).
+3. Visit your server [here](http://localhost:5500/index.html).
 
-You can also open `http://<your-PC-ip>:5500/bingo/` on any device in your LAN.
+You can also open `http://<your-PC-ip>:5500/index.html` on any device in your LAN.
 
 ## Screenshots
 
