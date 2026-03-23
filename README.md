@@ -16,7 +16,7 @@ A simple, free and open-source Bingo game.
 
 **Option 2**: Download & Run Locally:
 
->> Not recommended, as you wont have HTTPS, which is annoying on *some* secure browsers
+> > Not recommended, as you wont have HTTPS, which is annoying on _some_ secure browsers
 
 1. Create a folder anywhere, open the terminal in it and run:
 
@@ -24,7 +24,7 @@ A simple, free and open-source Bingo game.
 git clone https://github.com/NikoboiNFTB/Bingo .
 ```
 
->> Using `.` clones the files into the current directory. So create the folder first.
+> > Using `.` clones the files into the current directory. So create the folder first.
 
 2. Start a local Python server:
 
@@ -32,7 +32,7 @@ git clone https://github.com/NikoboiNFTB/Bingo .
 python3 -m http.server 5500
 ```
 
->> Requires Python
+> > Requires Python
 
 3. Visit your server [here](http://localhost:5500/index.html).
 
