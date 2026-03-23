@@ -52,9 +52,9 @@ Feel free to fork this repository and submit issues or pull requests if you have
 
 ## Credits
 
-Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**
+Created by [**Nikoboi**](https://github.com/NikoboiNFTB/)
 
-JavaScript fine-tuned with **[ChatGPT](https://chatgpt.com/)**
+JavaScript fine-tuned with [**ChatGPT**](https://chatgpt.com/)
 
 Theme inspired by the great nation of **Finland** 🇫🇮 and the perfectly cromulent color **black**.
 
