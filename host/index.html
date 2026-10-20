@@ -1,33 +1,29 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Bingo | Nikoboi</title>
+		<link rel="icon" type="image/svg" href="https://assets.nikoboi.dev/nikoboi/n/squircle/gradient/ribbon.svg" />
+		<link rel="stylesheet" href="style.css" />
+		<script defer src="script.js"></script>
+	</head>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bingo | Nikoboi</title>
-    <link rel="icon" type="image/svg" href="/assets/nikoboi/n/squircle/gradient/ribbon.svg">
-    <link rel="stylesheet" href="style.css">
-    <script defer src="script.js"></script>
-</head>
+	<body>
+		<div class="container">
+			<h1 class="header">Number Generator</h1>
 
-<body>
-    <div class="container">
+			<div class="generator-container">
+				<div class="number">⬇</div>
+				<button id="generateBtn" class="link-button">Generate Number</button>
+			</div>
 
-        <h1 class="header">Number Generator</h1>
+			<div class="history-container">
+				<h2>Called Numbers</h2>
+				<div class="history"></div>
+			</div>
 
-        <div class="generator-container">
-            <div class="number">⬇</div>
-            <button id="generateBtn" class="link-button">Generate Number</button>
-        </div>
-
-        <div class="history-container">
-            <h2>Called Numbers</h2>
-            <div class="history"></div>
-        </div>
-
-        <button id="resetBtn" class="link-button">Reset</button>
-
-    </div>
-</body>
-
+			<button id="resetBtn" class="link-button">Reset</button>
+		</div>
+	</body>
 </html>
