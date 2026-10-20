@@ -40,11 +40,11 @@ You can also open `http://<your-PC-ip>:5500/index.html` on any device in your LA
 
 ## Screenshots
 
-![Screenshot of Bingo](/assets/screenshot/2026/01/21/bingo.png)
+![Screenshot of Bingo](https://assets.nikoboi.dev/screenshots/2026-01-21-bingo.png)
 
-![Screenshot of Bingo Play](/assets/screenshot/2026/01/21/bingo-play.png)
+![Screenshot of Bingo Play](https://assets.nikoboi.dev/screenshots/2026-01-21-bingo-play.png)
 
-![Screenshot of Bingo Host](/assets/screenshot/2026/01/21/bingo-host.png)
+![Screenshot of Bingo Host](https://assets.nikoboi.dev/screenshots/2026-01-21-bingo-host.png)
 
 ## Contributing
 
